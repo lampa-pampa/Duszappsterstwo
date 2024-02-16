@@ -6,11 +6,10 @@ Users has three permissions to set:
 * booking attendance
 * event management
 * user management
-
   
-**NOTE:**  
-import `database.sql`, and set `connect` information in `config.php`
-**login to admin account and change password!!!**
+# Setup  
+Import `database.sql`, and set `connect` information in `config.php`.  
+**Login to admin account and change password before using the app!!!**
   
 **Admin account:**  
 Login: `admin`  

@@ -9,8 +9,9 @@ Users has three permissions to set:
   
 # Setup  
 Import `database.sql`, and set `connect` information in `config.php`.  
-**Login to admin account and change password before using the app!!!**
   
 **Admin account:**  
 Login: `admin`  
-Password: `admin`
+Password: `admin`  
+  
+**Login to admin account and change password before using the app!!!**
